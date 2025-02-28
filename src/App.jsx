@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <div>
+      <div className='bg-black pb-10'>
         <Header />
         <Banner />
       </div>
